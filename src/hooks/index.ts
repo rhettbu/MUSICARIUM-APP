@@ -15,7 +15,7 @@ export const getBuyTxWithJupiter = async (wallet: WalletContextState, baseMint: 
         const lamports = Math.floor(amount * 10 ** 9)
         const quoteResponse = await (
             await fetch(
-                `https://quote-api.jup.ag/v6/quote?inputMint=So11111111111111111111111111111111111111112&outputMint=${baseMint.toBase58()}&amount=${lamports}&slippageBps=100`
+                `https://quote-api.jup.ag/v6/quote?inputMint=sol&outputMint=${baseMint.toBase58()}&amount=${lamports}&slippageBps=100`
             )
         ).json();
         // get serialized transactions for the swap
