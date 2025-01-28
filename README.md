@@ -1,70 +1,66 @@
-**Blockchain AI Agent - Solana AI Agent, Bitcoin AI Agent**
+**Solana AI Agent**
 =====================================
 
-Welcome to the Onchain AI Agent Platform! Our cutting-edge solution is designed to leverage the power of artificial intelligence and blockchain technology, providing users with a comprehensive toolkit for market analysis, trading insights, and decision-making.
+Solana AI Agent Platform—an innovative solution designed to harness the power of artificial intelligence and blockchain technology. Our platform offers users a comprehensive toolkit for market analysis, trading insights, and informed decision-making, all on the Solana network.
 
 ## System Overview
 
 ### 1. Data Aggregation
 
-This core module focuses on collecting and structuring data through:
+Our platform aggregates and structures data from various sources to provide a holistic view of the market:
 
-- **Financial Market Data**: Access real-time and historical data from decentralized and centralized exchanges using APIs like CoinGecko, CoinMarketCap, Binance, and Kraken.
+- **Financial Market Data**: Access real-time and historical data from decentralized and centralized exchanges, leveraging APIs such as CoinGecko, CoinMarketCap, Binance, and Kraken.
   
-- **Social Sentiment Data**: Gather insights from platforms such as X (formerly Twitter), Reddit, and Discord using sentiment analysis tools to track community trends.
+- **Social Sentiment Data**: Track market sentiment by analyzing insights from platforms like X (formerly Twitter), Reddit, and Discord using advanced sentiment analysis tools.
   
-- **News Aggregation**: Consolidate relevant financial news through RSS feeds and APIs, using AI models to summarize key information for users.
+- **News Aggregation**: Consolidate relevant financial news using RSS feeds and APIs. AI-powered models summarize key information, enabling users to stay updated efficiently.
 
 ### 2. Analytical Insights
 
-This module analyzes the collected data to provide actionable insights:
+The platform processes collected data using AI and machine learning models to provide actionable insights:
 
-- **Machine Learning and AI**: Use predictive analytics and Natural Language Processing for market forecasts and sentiment evaluations.
+- **Machine Learning and AI**: Utilize AI for market forecasts and sentiment evaluations, employing Natural Language Processing (NLP) and statistical models.
   
-- **Tailored Trading Strategies**: Develop unique trading signals by backtesting historical data to validate the strategies, employing various methods like momentum-based approaches.
+- **Tailored Trading Strategies**: Generate tailored trading signals by backtesting historical data, validating strategies using methods such as momentum-based approaches.
 
 ---
 
 ## Features
 
-- **Onchain Data Support**: Direct access to on-chain data for accurate transaction analysis and insights.
-- **AI-Powered Trading Assistance**: On-demand AI recommendations and alerts for trading opportunities.
-- **Robust Security**: Implementing best practices in security to protect user data and transactions.
+- **Onchain Data Support**: Direct access to on-chain data for transaction analysis and accurate market insights.
+- **AI-Powered Trading Assistance**: Receive on-demand AI recommendations and alerts for trading opportunities.
+- **Robust Security**: Ensure the safety of user data and transactions by implementing industry-standard security practices.
 
 ---
 
-## MVP (Ordinal API Invoke)
-![GXlrj3HbUAAF6yJ](https://github.com/user-attachments/assets/b65a77f3-4038-47b0-9cbf-0c2a05f94b62)
-![GXqJM0GboAEmvu2](https://github.com/user-attachments/assets/446e5111-10f0-46a0-9739-656967b3a865)
-![GXyALPUakAIoj3U](https://github.com/user-attachments/assets/6d82a586-2e99-4e3d-b282-cfdeda300a4b)
-
 ## Test with some questions
 ```
-Q: Can you provide all the details on token Charlie from the list?
+Q: Can you provide all the details on Trump token from the list?
 ```
 ```
-Q: What is the current market price of DogeBlast?
+Q: What is the current market price of Trump?
 ```
 ```
-Q: Could you tell me the trading volume for DogeBlast today?
+Q: Could you tell me the trading volume for Trump today?
 ```
 ```
-Q: How many active holders does DogeBlast have right now?
+Q: How many active holders does Trump have right now?
 ```
 ```
-Q: Is there a higher number of buyers compared to sellers for DogeBlast today?
+Q: Is there a higher number of buyers compared to sellers for Trump today?
 ```
 ```
-Q: What is the contract address for DogeBlast?
+Q: What is the contract address for Trump?
 ```
 ```
-Q: Can you give me the liquidity pair address for DogeBlast?
+Q: Can you give me the liquidity pair address for Trump?
 ```
 ```
-Q: Please purchase 200 ETH worth of DogeBlast for me.
+Q: Please purchase 500 SOL worth of Trump for me.
 ```
 ---
 
 ## Support
-This has backend repo more and that is private for now. <br/>
-For support and further inquiries, please connect via Telegram: [jwest951227](https://t.me/jwest951227).
+The platform’s backend repository is currently private. If you have any questions or need assistance, feel free to reach out:
+- Telegram [rhettjel](https://t.me/rhettjel).
+- Twitter [DeFiMaxi](https://x.com/defai_maxi)
