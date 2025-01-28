@@ -5,7 +5,7 @@ import {
     VersionedTransaction,
 } from '@solana/web3.js'
 
-// @ts-ignore
+
 import { Metaplex } from "@metaplex-foundation/js";
 import { TOKEN_PROGRAM_ID } from "@raydium-io/raydium-sdk";
 import { AccountLayout, getMint } from "@solana/spl-token";
